@@ -7,6 +7,9 @@
 <h2 align="center">KicauOrgspark</h2>
 
 ###
+<div align="center">
+Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak orang supaya lebih mengenal teknologi. Melalui berbagai program dan kegiatan, organisasi ini berupaya menyajikan informasi secara sistematis dan komunikatif sehingga mudah dipahami oleh orang awam.
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## Our Tech Stack
@@ -34,8 +37,6 @@
   <img src=https://i.imgur.com/3u5ccsl.png"" height="50" alt="docker logo" name="19" />
   <img src="https://i.imgur.com/tqZpdHp.png" height="50" alt="postman logo" name="20" />
   <img src="https://i.imgur.com/Mc0p6wK.png" height="50" alt="unreal logo" name="21" />
-  
-  
   
 </div>
 
