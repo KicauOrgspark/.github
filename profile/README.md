@@ -12,12 +12,78 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+## Members
+<div align="center">
+
+
+  
+
+<table style="undefined;table-layout: fixed; width: 1270px"><colgroup>
+<col style="width: 158px">
+<col style="width: 158px">
+<col style="width: 158px">
+<col style="width: 158px">
+<col style="width: 3px">
+<col style="width: 158px">
+<col style="width: 158px">
+<col style="width: 158px">
+<col style="width: 158px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Divisi</th>
+    <th>Member Name</th>
+    <th>Github Profile</th>
+    <th>Expertise</th>
+    <th></th>
+    <th>Divisi</th>
+    <th>Member Name</th>
+    <th>Github Profile</th>
+    <th>Expertise</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Game Developer</td>
+    <td>Ahmad Zidan Al Ikhsan</td>
+    <td> <a href="https://github.com/Hibakupoxzz">@Hibakupoxzz</a> </td>
+    <td>Unity</td>
+    <td></td>
+    <td>Mobile Developer</td>
+    <td>Azka Aidirrafif Syah</td>
+    <td><a href="https://github.com/AzkaNonchallant">@AzkaNonchallant</a></td>
+    <td>Godot</td>
+  </tr>
+  <tr>
+    <td>Web Developer</td>
+    <td>Farhan Aditya</td>
+    <td><a href="https://github.com/Arf-012">@Arf-012</a></td>
+    <td>TypeScript</td>
+    <td></td>
+    <td>Web Developer</td>
+    <td>Muhamad Fauzan Pratama</td>
+    <td><a href="https://github.com/Ozan1123">@Ozan1123</a></td>
+    <td>Laravel</td>
+  </tr>
+  <tr>
+    <td>Mobile Developer</td>
+    <td>Reyhan Ramadhan</td>
+    <td><a href="https://github.com/jhoonserde">@jhoonserde</a></td>
+    <td>Kotlin</td>
+    <td></td>
+    <td>Game Developer</td>
+    <td>Dylan Alexander C.</td>
+    <td><a href="https://github.com/dacodpla">@dacodpla</a></td>
+    <td>Photoshop</td>
+  </tr>
+  
+</tbody></table>
+</div>
+
 ## Our Tech Stack
 <div align="center">
   
   <img src="https://i.imgur.com/O1tDBRM.png" height="50" alt="html5 logo" name="1" />
   <img src="https://i.imgur.com/XjECg1D.png" height="50" alt="css3 logo" name="2" />
-  <img src="https://i.imgur.com/N4ZAAyT.png" height="50" alt="javascript logo" name="3" />
   <img src="https://i.imgur.com/8PwmQ21.png" height="50" alt="unity logo" name="4" />
   <img src="https://i.imgur.com/27KeOgf.png" height="50" alt="php logo" name="5" />
   <img src="https://i.imgur.com/n5wDgzj.png" height="50" alt="laravel logo" name="6" />
