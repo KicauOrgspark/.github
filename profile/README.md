@@ -32,12 +32,12 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
 <thead>
   <tr>
     <th>Divisi</th>
-    <th>Member Name</th>
+    <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
     <th></th>
     <th>Divisi</th>
-    <th>Member Name</th>
+    <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
   </tr></thead>
