@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img height="200" src="https://i.imgur.com/LQKzwgN.jpeg"  />
 </div>
 
@@ -75,6 +75,50 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
     <td><a href="https://github.com/dacodpla">@dacodpla</a></td>
     <td>Photoshop</td>
   </tr>
+  <tr>
+  <td>Cyber Security</td>
+  <td>Alvin Rizky</td>
+  <td><a href="https://github.com/grifitth12">@grifitth12</a></td>
+  <td>Python</td>
+  <td></td>
+  <td>Mobile Developer</td>
+  <td>Hafiz Pratama Adithya</td>
+  <td><a href="https://github.com/PresidentHapis">@PresidentHapis</a></td>
+  <td>Flask</td>
+</tr>
+<tr>
+  <td>Web Developer</td>
+  <td>Julian Benhart</td>
+  <td><a href="https://github.com/Kiru-I">@Kiru-I</a></td>
+  <td>NodeJS</td>
+  <td></td>
+  <td>Cyber Security</td>
+  <td>Reihan Aditya Putra</td>
+  <td><a href="https://github.com/ehanz12">@ehanz12</a></td>
+  <td>Golang</td>
+</tr>
+<tr>
+  <td>Web Developer</td>
+  <td>Dessi Puspita Sari</td>
+  <td><a href="https://github.com/strzcy">@strzcy</a></td>
+  <td>Figma</td>
+  <td></td>
+  <td>Web Developer</td>
+  <td>Alizza Pasha Fahira</td>
+  <td><a href="https://github.com/alijaa826">@alijaa826</a></td>
+  <td>Canva</td>
+</tr>
+<tr>
+  <td>Web Developer</td>
+  <td>Muhammad Varrelian Athaya Isna</td>
+  <td><a href="https://github.com/Varrelian">@Varrelian</a></td>
+  <td>Unreal</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
   
 </tbody></table>
 </div>
