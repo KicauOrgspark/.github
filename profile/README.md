@@ -78,7 +78,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
   <tr>
   <td>Cyber Security</td>
   <td>Alvin Rizky</td>
-  <td><a href="https://github.com/grifitth12">@grifitth12</a></td>
+  <td><a href="https://github.com/Llyod-17">@Llyod-17</a></td>
   <td>Python</td>
   <td></td>
   <td>Mobile Developer</td>
