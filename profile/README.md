@@ -35,7 +35,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
     <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
-    <!-- <th></th> -->
+    <th></th>
     <th>Roles</th>
     <th>Name</th>
     <th>Github Profile</th>
@@ -48,7 +48,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td>Ahmad Zidan Al Ikhsan</td>
       <td> <a href="https://github.com/Hibakupoxzz">@Hibakupoxzz</a></td>
     <td>Laravel</td>
-    <!-- <td></td> -->
+    <td></td>
     <td>Backend Dev.</td>
       <td>Muhamad Fauzan Pratama</td>
       <td><a href="https://github.com/Ozan1123">@Ozan1123</a></td>
@@ -60,7 +60,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td>Farhan Aditya</td>
       <td><a href="https://github.com/Arf-012">@Arf-012</a></td>
     <td>Vue, Next, React</td>
-    <!-- <td></td> -->
+    <td></td>
     <td>System Programing</td>
       <td>Reyhan Ramadhan</td>
       <td><a href="https://github.com/jhoonserde">@jhoonserde</a></td>
@@ -72,7 +72,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td>Hafiz Pratama Adithya</td>
       <td><a href="https://github.com/PresidentHapis">@PresidentHapis</a></td>
     <td></td>
-    <!-- <td></td> -->
+    <td></td>
     <td></td>
       <td>Dessi Puspita Sari</td>
       <td><a href="https://github.com/strzcy">@strzcy</a></td>
@@ -84,7 +84,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td>Reihan Aditya Putra</td>
       <td><a href="https://github.com/ehanz12">@ehanz12</a></td>
     <td>Golang</td>
-    <!-- <td></td> -->
+    <td></td>
     <td>Fullstak Developer</td>
       <td>Julian Benhart</td>
       <td><a href="https://github.com/Kiru-I">@Kiru-I</a></td>
@@ -96,7 +96,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
         <td>Dylan Alexander C.</td>
         <td><a href="https://github.com/dacodpla">@dacodpla</a></td>
       <td>Game Design</td>
-      <!-- <td></td> -->
+      <td></td>
       <td></td>
         <td>Muhammad Varrelian Athaya Isna</td>
         <td><a href="https://github.com/Varrelian">@Varrelian</a></td>
@@ -108,7 +108,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td>Azka Aydirrafif Syah</td>
       <td><a href="https://github.com/AzkaNonchallant">@AzkaNonchallant</a></td>
     <td>Flutter</td>
-    <!-- <td></td> -->
+    <td></td>
     <td></td>
       <td>Alizza Pasha Fahira</td>
       <td><a href="https://github.com/alijaa826">@alijaa826</a></td>
@@ -120,7 +120,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td>Alvin Rizky</td>
       <td><a href="https://github.com/Llyod-17">@Llyod-17</a></td>
     <td>Svelte</td>
-    <!-- <td></td> -->
+     <td></td>
     <td></td>
     <td></td>
     <td></td>
