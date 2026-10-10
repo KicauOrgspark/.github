@@ -36,7 +36,7 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
     <th>Github Profile</th>
     <th>Expertise</th>
     <!-- <th></th> -->
-    <th>Divisi</th>
+    <th>Roles</th>
     <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
@@ -121,7 +121,6 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
       <td><a href="https://github.com/Llyod-17">@Llyod-17</a></td>
     <td>Svelte</td>
     <!-- <td></td> -->
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
