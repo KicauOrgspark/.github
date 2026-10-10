@@ -31,92 +31,102 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
 </colgroup>
 <thead>
   <tr>
-    <th>Divisi</th>
+    <th>Roles</th>
     <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
+    <!-- <th></th> -->
     <th>Divisi</th>
     <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
   </tr></thead>
 <tbody>
+
   <tr>
-    <td>Game Developer</td>
-    <td>Ahmad Zidan Al Ikhsan</td>
-    <td> <a href="https://github.com/Hibakupoxzz">@Hibakupoxzz</a> </td>
-    <td>Unity</td>
-    <td>Mobile Developer</td>
-    <td>Azka Aidirrafif Syah</td>
-    <td><a href="https://github.com/AzkaNonchallant">@AzkaNonchallant</a></td>
-    <td>Godot</td>
-  </tr>
-  <tr>
-    <td>Web Developer</td>
-    <td>Farhan Aditya</td>
-    <td><a href="https://github.com/Arf-012">@Arf-012</a></td>
-    <td>TypeScript</td>
-    <td></td>
-    <td>Web Developer</td>
-    <td>Muhamad Fauzan Pratama</td>
-    <td><a href="https://github.com/Ozan1123">@Ozan1123</a></td>
+    <td>Backend & SysAdmin</td>
+      <td>Ahmad Zidan Al Ikhsan</td>
+      <td> <a href="https://github.com/Hibakupoxzz">@Hibakupoxzz</a></td>
     <td>Laravel</td>
+    <!-- <td></td> -->
+    <td>Backend Dev.</td>
+      <td>Muhamad Fauzan Pratama</td>
+      <td><a href="https://github.com/Ozan1123">@Ozan1123</a></td>
+    <td>Laravel & Golang</td>
   </tr>
+
   <tr>
-    <td>Mobile Developer</td>
-    <td>Reyhan Ramadhan</td>
-    <td><a href="https://github.com/jhoonserde">@jhoonserde</a></td>
-    <td>Kotlin</td>
+    <td>Frontend Dev.</td>
+      <td>Farhan Aditya</td>
+      <td><a href="https://github.com/Arf-012">@Arf-012</a></td>
+    <td>Vue, Next, React</td>
+    <!-- <td></td> -->
+    <td>System Programing</td>
+      <td>Reyhan Ramadhan</td>
+      <td><a href="https://github.com/jhoonserde">@jhoonserde</a></td>
+    <td>Tooling Engineer</td>
+  </tr>
+
+  <tr>
     <td></td>
-    <td>Game Developer</td>
-    <td>Dylan Alexander C.</td>
-    <td><a href="https://github.com/dacodpla">@dacodpla</a></td>
-    <td>Photoshop</td>
+      <td>Hafiz Pratama Adithya</td>
+      <td><a href="https://github.com/PresidentHapis">@PresidentHapis</a></td>
+    <td></td>
+    <!-- <td></td> -->
+    <td></td>
+      <td>Dessi Puspita Sari</td>
+      <td><a href="https://github.com/strzcy">@strzcy</a></td>
+    <td></td>
   </tr>
+
   <tr>
-  <td>Cyber Security</td>
-  <td>Alvin Rizky</td>
-  <td><a href="https://github.com/Llyod-17">@Llyod-17</a></td>
-  <td>Python</td>
-  <td></td>
-  <td>Mobile Developer</td>
-  <td>Hafiz Pratama Adithya</td>
-  <td><a href="https://github.com/PresidentHapis">@PresidentHapis</a></td>
-  <td>Flask</td>
-</tr>
-<tr>
-  <td>Web Developer</td>
-  <td>Julian Benhart</td>
-  <td><a href="https://github.com/Kiru-I">@Kiru-I</a></td>
-  <td>NodeJS</td>
-  <td></td>
-  <td>Cyber Security</td>
-  <td>Reihan Aditya Putra</td>
-  <td><a href="https://github.com/ehanz12">@ehanz12</a></td>
-  <td>Golang</td>
-</tr>
-<tr>
-  <td>Web Developer</td>
-  <td>Dessi Puspita Sari</td>
-  <td><a href="https://github.com/strzcy">@strzcy</a></td>
-  <td>Figma</td>
-  <td></td>
-  <td>Web Developer</td>
-  <td>Alizza Pasha Fahira</td>
-  <td><a href="https://github.com/alijaa826">@alijaa826</a></td>
-  <td>Canva</td>
-</tr>
-<tr>
-  <td>Web Developer</td>
-  <td>Muhammad Varrelian Athaya Isna</td>
-  <td><a href="https://github.com/Varrelian">@Varrelian</a></td>
-  <td>Unreal</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
+    <td>Backend Dev.</td>
+      <td>Reihan Aditya Putra</td>
+      <td><a href="https://github.com/ehanz12">@ehanz12</a></td>
+    <td>Golang</td>
+    <!-- <td></td> -->
+    <td>Fullstak Developer</td>
+      <td>Julian Benhart</td>
+      <td><a href="https://github.com/Kiru-I">@Kiru-I</a></td>
+    <td>Vue, TS, JS</td>
+  </tr>
+
+  <tr>
+      <td>UI/UX</td>
+        <td>Dylan Alexander C.</td>
+        <td><a href="https://github.com/dacodpla">@dacodpla</a></td>
+      <td>Game Design</td>
+      <!-- <td></td> -->
+      <td></td>
+        <td>Muhammad Varrelian Athaya Isna</td>
+        <td><a href="https://github.com/Varrelian">@Varrelian</a></td>
+      <td></td>
+  </tr>
+
+  <tr>
+    <td>Mobile Dev.</td>
+      <td>Azka Aydirrafif Syah</td>
+      <td><a href="https://github.com/AzkaNonchallant">@AzkaNonchallant</a></td>
+    <td>Flutter</td>
+    <!-- <td></td> -->
+    <td></td>
+      <td>Alizza Pasha Fahira</td>
+      <td><a href="https://github.com/alijaa826">@alijaa826</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Frontend Dev.</td>
+      <td>Alvin Rizky</td>
+      <td><a href="https://github.com/Llyod-17">@Llyod-17</a></td>
+    <td>Svelte</td>
+    <!-- <td></td> -->
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   
 </tbody></table>
 </div>
