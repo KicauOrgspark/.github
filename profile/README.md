@@ -35,7 +35,6 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
     <th>Name</th>
     <th>Github Profile</th>
     <th>Expertise</th>
-    <th></th>
     <th>Divisi</th>
     <th>Name</th>
     <th>Github Profile</th>
@@ -47,7 +46,6 @@ Organisasi Kicau dibuat dengan tujuan untuk memberikan edukasi kepada banyak ora
     <td>Ahmad Zidan Al Ikhsan</td>
     <td> <a href="https://github.com/Hibakupoxzz">@Hibakupoxzz</a> </td>
     <td>Unity</td>
-    <td></td>
     <td>Mobile Developer</td>
     <td>Azka Aidirrafif Syah</td>
     <td><a href="https://github.com/AzkaNonchallant">@AzkaNonchallant</a></td>
